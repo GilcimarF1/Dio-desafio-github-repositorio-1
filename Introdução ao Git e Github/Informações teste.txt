@@ -1,0 +1,1 @@
+Este bloco de novas é para registrar informações relevantes sobre o Git e GitHub, durante os estudos.
